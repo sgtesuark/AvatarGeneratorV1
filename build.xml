@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Copyright (c) 2005, 2016 Oracle and/or its affiliates. All rights reserved.
+
+Oracle and Java are registered trademarks of Oracle and/or its affiliates.
+Other names may be trademarks of their respective owners.
+
+-->
+<project name="AvatarGeneratorV1" default="default" basedir=".">
+    <description>AvatarGeneratorV1</description>
+    <import file="nbproject/build-impl.xml"/>
+
+</project>
